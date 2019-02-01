@@ -5,6 +5,7 @@
     "@rails/activestorage": "^6.0.0-alpha",
     "@rails/ujs": "^6.0.0-alpha",
     "@rails/webpacker": "3.5",
+    "jquery": "^3.3.1",
     "turbolinks": "^5.2.0"
   },
   "devDependencies": {
